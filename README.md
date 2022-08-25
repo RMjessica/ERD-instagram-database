@@ -1,9 +1,6 @@
-# This is an Entity Relationship Diagram(ERD) for Instagram Database
-
-It's a very similar diagram to this one:
-
-![Instagram Diagram](https://github.com/breatheco-de/exercise-instagram-data-modeling/blob/master/assets/example.png?raw=true)
-[Click to open diagram](https://app.quickdatabasediagrams.com/#/d/LxNXQZ)
+# Entity Relationship Diagram (ERD) for an instagram-like database
+\
+![diagram](https://user-images.githubusercontent.com/88908436/186711289-ae328810-e555-49da-aa12-d06d27ab2b66.png)
 
 > 🔥This is a FREE tool to practice your diagrams: <https://app.quickdatabasediagrams.com/#/d/>
 
@@ -16,3 +13,4 @@ It's a very similar diagram to this one:
 3. Generate the diagram as many times as you need `$ python src/models.py`
 
 4. Open the file `diagram.png` to check out your UML diagram!
+
